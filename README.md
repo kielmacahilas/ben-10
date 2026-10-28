@@ -26,6 +26,16 @@ I enjoy the series because of its alien designs, adventures, humor, and the way 
 | Grandpa Max | Their experienced guide and a trusted Plumber. |
 | Kevin Levin | A powerful ally whose relationship with Ben develops over time. |
 
+## My Favorite Ben 10 Aliens
+
+| Alien | Ability |
+| --- | --- |
+| Four Arms | Super strength |
+| Heatblast | Fire and heat control |
+| XLR8 | Super speed |
+| Diamondhead | Crystal creation and control |
+| Grey Matter | High intelligence |
+
 ## My Favorite Ben 10 Elements
 
 1. The different alien transformations.
@@ -64,7 +74,7 @@ git commit -m "Add Ben 10 Markdown README"
 - [x] Create a feature branch
 - [x] Add Markdown formatting examples
 - [x] Commit the README changes
-- [x] Open a pull request
+- [x] Prepare the README for review
 
 ---
 
